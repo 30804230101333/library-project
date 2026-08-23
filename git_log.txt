@@ -1,0 +1,5 @@
+Repository created: Library Project
+
+Commit 1: Initial commit
+Commit 2: Add cleaned data
+Commit 3: Complete Task 3 analysis
